@@ -1,0 +1,25 @@
+.cardhome
+{
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+    margin-top:-90px;
+    background-color: rgb(15,27,42);
+}
+.cardbody{
+    color:rgb(158,171,186);
+}
+.cardimg{
+width:100px;
+}
+.link{
+
+    width: 20px;
+    color:white;
+    font-style:none;
+    text-decoration: none;
+
+}
+a{
+    margin:5px;
+}

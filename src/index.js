@@ -2,16 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Header} from './components'
+import {Header,Homecard} from './components'
 function App() {
   return (
     <>
     <div>
    <Header/>
       </div>
-      <div class="bg">
-
+      <div>
+      <div class="bg"></div>
+      <Homecard/>
       </div>
+     
       </>
     
   );
