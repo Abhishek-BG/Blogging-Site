@@ -2,19 +2,20 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Header,Homecard} from './components'
+import {Header,Homecard,Posts} from './components'
 function App() {
   return (
     <>
     <div>
-   <Header/>
-      </div>
-      <div>
-      <div class="bg"></div>
-      <Homecard/>
-      </div>
+      <Header/>
      
-      </>
+      <div>
+        <div class="bg"></div>
+        <Homecard/>
+      </div>
+      <Posts/>
+    </div>
+    </>
     
   );
 }

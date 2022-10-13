@@ -1,0 +1,19 @@
+
+.posts{
+    margin-top:30px;
+}
+.posts h5{
+    color:antiquewhite;
+}
+.search{
+        color:antiquewhite;
+        background-color: rgb(13,19,32);
+        border-color: rgb(18,27,41);
+        border-radius: 5px;
+        height:50px;
+}
+.cardhome2
+{
+    margin-top:20px;
+    background-color: rgb(15,27,42);
+}

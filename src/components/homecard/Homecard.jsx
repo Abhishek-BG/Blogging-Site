@@ -15,6 +15,7 @@ const Homecard = () => {
       <Row>
         <Col md="12" lg="4" sm="12" xs="12">
         <Card.Img  src={logo} />
+        
         </Col>
        <Col>
        <Card.Title><h1>Cheonjae</h1></Card.Title>
