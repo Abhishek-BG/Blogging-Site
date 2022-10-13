@@ -1,12 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import {Navbar} from './components'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import {Header} from './components'
 function App() {
   return (
-    <div className="App">
-      <h1>Blog</h1>
-    </div>
+    <>
+    <div>
+   <Header/>
+      </div>
+      <div class="bg">
+
+      </div>
+      </>
+    
   );
 }
 
