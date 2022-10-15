@@ -52,7 +52,7 @@ const Posts = () => {
                                 <Card.Title><h1>Cheonjae</h1></Card.Title>
                                 <Card.Subtitle className="mb-2 text-muted">Abhishek-BG</Card.Subtitle>
                                 <Card.Text>
-                                    Full Stack Developer, Sharpened with DevOps, Fueled by Passion , Ask me anything about tech!.
+                                    Full Stack Developer, Sharpened with DevOp, Fueled by Passion , Ask me anything about tech!.
                                 </Card.Text>
                             </Card.Body>
                         </Card>
