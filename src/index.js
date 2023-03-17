@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Header,Homecard,Posts} from './components'
+//headerx
 function App() {
   return (
     <>
